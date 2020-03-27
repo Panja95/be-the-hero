@@ -18,7 +18,7 @@ module.exports = {
                 'ongs.city',
                 'ongs.uf'
             
-            ]);
+            ]);            
 
         response.header('X-Total-Count', count['count(*)']);
 
